@@ -1,0 +1,30 @@
+Title:
+Journey of a Tech Entrepreneur: From Programming Prodigy to AI Pioneer
+
+Two sentences describing what the content is about:
+This text follows the journey of a tech entrepreneur who started programming at a young age and eventually founded a company focused on applying deep learning to source code. It delves into his experiences, challenges, beliefs, and the future of AI in software development.
+
+Conclusion:
+The entrepreneur started programming at 10 years old, inspired by a peer who wrote an operating system in assembly. Over the years, he founded a company applying deep learning to source code, raised significant funding, and aimed to build the most capable AI for software development by 2024. Despite challenges and failures, his journey reflects a relentless pursuit of innovation and a vision for the future of AI.
+
+Key Points:
+👨‍💻 Early Inspiration: Started programming at 10 after being taught by a peer who wrote an operating system in assembly.
+🚀 Entrepreneurial Journey: Founded a company in 2016 focusing on applying deep learning to source code.
+💰 Fundraising Success: Raised over 120 million euros to support the company's growth and development.
+🔮 Vision for the Future: Aims to build the world's most capable AI for software development by 2024.
+💡 Importance of Data Quality: Emphasizes the significance of high-quality data and the use of synthetic data in training models.
+🌍 Strategic Shift: Moved the company back to Europe to tap into the talent pool and leverage European expertise.
+💻 Focus on Product: Prioritizes building AI tools for developers and enterprise environments, aiming for real-world impact.
+🏆 Competitive Landscape: Acknowledges the challenges of competing with tech giants but remains focused on innovation and capabilities.
+📈 Scaling Challenges: Highlights the need for substantial physical infrastructure and capital to stay competitive in the AI capabilities race.
+🎯 Future Goals: Plans to deploy advanced AI models and products for developers and enterprises, showcasing progress by 2024.
+
+Summary:
+1. The entrepreneur's journey began at 10 when inspired by a peer who wrote an operating system in assembly, sparking a passion for technology.
+2. He founded a company in 2016 dedicated to applying deep learning to source code, leading to significant fundraising success.
+3. The focus shifted towards building the most capable AI for software development by 2024, emphasizing the importance of high-quality data.
+4. Moving the company back to Europe allowed access to a rich talent pool and strategic advantages in the competitive landscape.
+5. Plans include deploying advanced AI models for developers and enterprises, aiming for real-world impact and innovation in software development.
+6. Challenges include the need for substantial physical infrastructure and capital to compete with tech giants in the AI capabilities race, driving the company's strategic decisions and future goals.
+What does he think about open source ?
+The entrepreneur believes in the power and value of open source in the tech industry. He has not explicitly discussed his views on open source in the provided text, but based on his background in technology and entrepreneurship, it can be inferred that he likely sees open source as a valuable resource for collaboration, innovation, and community-driven development in the software industry. Open source tools and projects may play a significant role in his company's ecosystem and could align with his vision for democratizing access to advanced AI technologies for software development.

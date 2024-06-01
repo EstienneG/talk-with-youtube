@@ -1,0 +1,5 @@
+argparse
+langchain
+langchain_openai
+youtube_transcript_api
+python-dotenv
