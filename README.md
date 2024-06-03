@@ -23,6 +23,7 @@ Id of the youtube video can be found after the v= in the url
 example for https://www.youtube.com/watch?v=XGQlo18w00Q :
    ```bash
    python youtubeToSummary.py --video_id 'XGQlo18w00Q'
+   ```
 
 2. **Interact with the video:**
 
